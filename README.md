@@ -31,7 +31,7 @@
 
 ## ✦ About
 
-**BlueSky Engine Simulate Editor** is a community-made editor for experimenting with environments and custom content related to Sky: Children of the Light.
+**Skyforge** is a community-made editor for experimenting with environments and custom content related to Sky: Children of the Light.
 
 Rather than recreating physics from scratch, the project uses **original Bluesky Engine source code** for its physics-related functionality.
 
@@ -99,7 +99,7 @@ The goal is simple: provide a flexible workspace for exploring game environments
 
 ## ✦ Getting Started
 
-Visit the [GitHub repository](https://github.com/GuqiGG/BlueSky-Engine-Simulate-Editor) to explore the source code and available downloads.
+Visit the [GitHub repository](https://github.com/GuqiGG/Skyforge) to explore the source code and available downloads.
 
 Installation instructions will be added as the project develops.
 
