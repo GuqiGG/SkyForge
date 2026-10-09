@@ -1,4 +1,4 @@
-# BlueSky Engine Simulate Editor
+# Skyforge
 
 <p align="center">
   <img src="assets/banner.png" alt="BlueSky Engine Simulate Editor 横幅" width="100%">
@@ -31,7 +31,7 @@
 
 ## ✦ 项目简介
 
-**BlueSky Engine Simulate Editor** 是一个面向《光·遇》的社区自制编辑器，用于探索游戏环境、编辑地图和尝试自定义内容。
+**SkyForge** 是一个面向《光·遇》的社区自制编辑器，用于探索游戏环境、编辑地图和尝试自定义内容。
 
 本项目并非从零重新实现物理系统，而是**直接使用 Bluesky Engine 原始源码**实现相关物理功能。
 
@@ -99,7 +99,7 @@
 
 ## ✦ 开始使用
 
-前往 [GitHub 项目仓库](https://github.com/GuqiGG/BlueSky-Engine-Simulate-Editor)，查看源码和可用的下载版本。
+前往 [GitHub 项目仓库](https://github.com/GuqiGG/Skyforge)，查看源码和可用的下载版本。
 
 安装和使用说明将随着项目开发逐步完善。
 
