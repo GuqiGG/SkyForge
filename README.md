@@ -1,4 +1,4 @@
-# BlueSky Engine Simulate Editor
+# Skyforge
 
 <p align="center">
   <img src="assets/banner.png" alt="BlueSky Engine Simulate Editor Banner" width="100%">
